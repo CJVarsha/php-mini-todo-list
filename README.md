@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# php-mini-todo-list
-A simple To-Do List app using PHP and HTML
-=======
 # PHP Mini To-Do List
 
 A super-simple To-Do List web app built using PHP and basic HTML/CSS.  
@@ -25,4 +21,3 @@ Add, view, and delete tasks—all stored in a plain text file for easy setup.
 ## License
 
 MIT License
->>>>>>> 0389db1 (Initial commit: Add simple WordPress plugin)
